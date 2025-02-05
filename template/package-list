@@ -1,0 +1,8 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:dev.enderman.template////PointingToDeclaration/template/dev.enderman.template/index.html
+$dokka.location:dev.enderman.template//main/#/PointingToDeclaration/template/dev.enderman.template/main.html
+$dokka.location:dev.enderman.template/App///PointingToDeclaration/template/dev.enderman.template/-app/index.html
+$dokka.location:dev.enderman.template/App/App/#/PointingToDeclaration/template/dev.enderman.template/-app/-app.html
+$dokka.location:dev.enderman.template/App/greeting/#/PointingToDeclaration/template/dev.enderman.template/-app/greeting.html
+dev.enderman.template
